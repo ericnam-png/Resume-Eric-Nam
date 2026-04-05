@@ -1,7 +1,7 @@
 # [Eric Kweon Nam]
 
 <sub>
-IT Support & SOC L1 Analyst · Seoul, South Korea · Open to work  
+IT Support & SOC L1 Analyst · Seoul, South Korea · Open to work · seeking relocation  
 📧 ericnam991020@email.com | 🔗 <a href="https://www.linkedin.com/in/kweon-nam-365b52350/?locale=ko">LinkedIn</a> | 🧠 <a href="https://tryhackme.com/p/EricNam">TryHackMe</a><br>
 </sub>
 
@@ -55,18 +55,21 @@ real-world troubleshooting outside of a formal role.
 
 ---
 
+## TryHackMe
+
+- **Top 3% Global Ranking** — Ranked within the top 3% of users worldwide based on consistent hands-on activity and performance
+
+- **SOC Level 1 Path** — Completed structured SOC training covering SIEM usage, log analysis, alert triage, and incident response workflows
+
+- **Jr Penetration Tester Path** — Completed hands-on training in enumeration, exploitation techniques, and offensive security fundamentals
+
+- **Pre Security Path** — Built foundational knowledge in networking, Linux, web fundamentals, and core cybersecurity concepts
+
+---
+
 ## Currently developing
 
 - CompTIA CySA+ — threat detection, vulnerability management, and blue team
   response techniques (in progress)
 - TryHackMe SOC L1 Analyst (SAL1) — structured SOC workflow practice covering
   log analysis, alert handling, and incident escalation (in progress)
-
----
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: you@email.com
-- TryHackMe: [tryhackme.com/p/yourhandle](https://tryhackme.com/p/yourhandle)
-- Location: Seoul, South Korea — seeking relocation to Australia
