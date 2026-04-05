@@ -1,4 +1,4 @@
-# [Your English Name]
+# [Eric Kweon Nam]
 
 IT Support & SOC L1 Analyst · Seeking roles in Australia · Based in Seoul, South Korea · Open to work
 
