@@ -2,7 +2,7 @@
 
 <sub>
 IT Support & SOC L1 Analyst · Seoul, South Korea · Open to work · seeking relocation  
-📧 ericnam991020@email.com | 🔗 <a href="https://www.linkedin.com/in/kweon-nam-365b52350/?locale=ko">LinkedIn</a> | 🧠 <a href="https://tryhackme.com/p/EricNam">TryHackMe</a><br>
+🔗 <a href="https://www.linkedin.com/in/kweon-nam-365b52350/?locale=ko">LinkedIn</a> | 🧠 <a href="https://tryhackme.com/p/EricNam">TryHackMe</a><br>
 </sub>
 
 <a href="https://www.credly.com/badges/b46c73f8-0e0e-4b61-b5f8-e58a57d8a977"><img src="https://img.shields.io/badge/CompTIA-Security%2B-555555?style=flat-square" /></a> <img src="https://img.shields.io/badge/CompTIA-CySA%2B%20(in%20progress)-aaaaaa?style=flat-square" />
@@ -49,7 +49,7 @@ real-world troubleshooting outside of a formal role.
   from scratch, configured Group Policy Objects, and monitored authentication events
   (Event ID 4624/4625) for brute-force detection in Splunk
 
-- **Phishing email analysis** — Analyzed email headers from real phishing
+- **Phishing email analysis** — Analysed email headers from real phishing
   samples, identified spoofed sender domains, and documented indicators of
   compromise using VirusTotal and AbuseIPDB on THM
 
@@ -81,5 +81,6 @@ real-world troubleshooting outside of a formal role.
 - Bachelor of Arts in English Language and Literature
 
 ## Experience
-- Bar & Café Staff, Australia (2 years)
-- English Instructor, Korea (6 years)
+- Bar & Café Staff, Australia (2 years), and English Instructor, Korea (6 years)
+
+Developed client communication, documentation habits, and worked under pressure in fast-paced environments
