@@ -70,3 +70,10 @@ real-world troubleshooting outside of a formal role.
 - SOC Automation — building Orchestration using Wazuh/Shuffle (in progress)
 - CompTIA CySA+ — threat detection, vulnerability management, and blue team
   response techniques (in progress)
+
+## Education
+- Bachelor of Arts in English Language and Literature
+
+## Experience
+- Bar & Café Staff, Australia (2 years)
+- English Instructor, Korea (6 years)
