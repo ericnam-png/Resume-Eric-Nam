@@ -83,3 +83,12 @@ real-world troubleshooting outside of a formal role.
 - Bar & Café Staff, Australia (2 years), and English Instructor, Korea (6 years)
 
 Developed client communication, documentation habits, and worked under pressure in fast-paced environments
+
+## Project Repositories
+
+| Repo | Description |
+|---|---|
+| [soc-homelab-setup](https://github.com/ericnam-png/soc-homelab-setup) | Foundational SOC lab — VirtualBox, Splunk, Sysmon |
+| [splunk-detection-lab](https://github.com/ericnam-png/splunk-detection-lab) | Attack simulation & detection — RCE, brute-force, malware |
+| [ADDC-Soc-Simulator-lab](https://github.com/ericnam-png/ADDC-Soc-Simulator-lab) | Active Directory environment setup — 4-VM lab, domain, Splunk |
+| [ADDC-Attack-Detection-Simulation](https://github.com/ericnam-png/ADDC-Attack-Detection-Simulation) | AD attack simulation — RDP brute-force, Atomic Red Team, Sysmon detection |
