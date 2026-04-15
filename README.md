@@ -25,7 +25,7 @@ real-world troubleshooting outside of a formal role.
   Windows event logs, and detected suspicious process execution using Event ID 1 and 4688,
   including simulated Remote Command Execution (RCE), and validated detection through log correlation in Splunk
 
-- **[Active Directory attack & detection lab](https://github.com/ericnam-png/ADDC-Soc-Simulator-lab)** —  simulated RDP brute-force, ran Atomic Red Team T1136/T1548 techniques, and detected account creation and UAC bypass via Sysmon Event IDs 13 and 4720/4726 in Splunk.
+- **[Active Directory attack & detection lab](https://github.com/ericnam-png/ADDC-Soc-Simulator-lab)** —  Simulated RDP brute-force, ran Atomic Red Team T1136/T1548 techniques, and detected account creation and UAC bypass via Sysmon Event IDs 13 and 4720/4726 in Splunk.
 
 - **Phishing email analysis** — Analysed email headers from real phishing
   samples, identified spoofed sender domains, and documented indicators of
