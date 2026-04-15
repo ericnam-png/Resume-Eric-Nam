@@ -11,11 +11,31 @@ IT Support & SOC L1 Analyst · Seoul, South Korea · Open to work · seeking rel
 ## Profile
 
 Self-driven cybersecurity professional based in South Korea, actively pursuing
-an IT support / SOC L1 analyst role abroad. Holds CompTIA Security+ and
+an IT support / SOC L1 analyst role. Holds CompTIA Security+ and
 has built practical experience through independent home lab work covering SIEM
 deployment, Active Directory administration, and threat analysis with a focus on log-based detection and incident investigation. Comfortable
 working through complex technical problems independently, as demonstrated by
 real-world troubleshooting outside of a formal role.
+
+---
+
+## Projects
+
+- **[Splunk SIEM detection lab](https://github.com/ericnam-png/splunk-detection-lab)** — Deployed Splunk and Sysmon on a local VM, ingested
+  Windows event logs, and detected suspicious process execution using Event ID 1 and 4688,
+  including simulated Remote Command Execution (RCE), and validated detection through log correlation in Splunk
+
+- **[Active Directory home lab](https://github.com/ericnam-png/ADDC-Soc-Simulator-lab)** — Built a Windows Server domain environment
+  from scratch, configured Group Policy Objects, and monitored authentication events
+  (Event ID 4624/4625) for brute-force detection in Splunk
+
+- **Phishing email analysis** — Analysed email headers from real phishing
+  samples, identified spoofed sender domains, and documented indicators of
+  compromise using VirusTotal and AbuseIPDB on THM
+
+- **Windows account recovery** — Restored a deleted administrator privilege on
+  a live Windows system by accessing the SAM database via safe mode boot,
+  without data loss or OS reinstall
 
 ---
 
@@ -39,25 +59,6 @@ real-world troubleshooting outside of a formal role.
 
 ---
 
-## Projects
-
-- **Splunk SIEM detection lab** — Deployed Splunk and Sysmon on a local VM, ingested
-  Windows event logs, and detected suspicious process execution using Event ID 1 and 4688,
-  including simulated Remote Command Execution (RCE), and validated detection through log correlation in Splunk
-
-- **Active Directory home lab** — Built a Windows Server domain environment
-  from scratch, configured Group Policy Objects, and monitored authentication events
-  (Event ID 4624/4625) for brute-force detection in Splunk
-
-- **Phishing email analysis** — Analysed email headers from real phishing
-  samples, identified spoofed sender domains, and documented indicators of
-  compromise using VirusTotal and AbuseIPDB on THM
-
-- **Windows account recovery** — Restored a deleted administrator privilege on
-  a live Windows system by accessing the SAM database via safe mode boot,
-  without data loss or OS reinstall
-
----
 
 ## TryHackMe
 
