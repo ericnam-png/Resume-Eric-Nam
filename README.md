@@ -72,7 +72,6 @@ real-world troubleshooting outside of a formal role.
 
 ## Currently developing
 
-- SOC Automation — building Orchestration using Wazuh/Shuffle (in progress)
 - CompTIA CySA+ — threat detection, vulnerability management, and blue team
   response techniques (in progress)
 
