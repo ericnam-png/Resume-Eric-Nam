@@ -5,7 +5,7 @@ IT Support & SOC L1 Analyst · Seoul, South Korea · Open to work · seeking rel
 🔗 <a href="https://www.linkedin.com/in/kweon-nam-365b52350/?locale=ko">LinkedIn</a> | 🧠 <a href="https://tryhackme.com/p/EricNam">TryHackMe</a><br>
 </sub>
 
-<a href="https://www.credly.com/badges/b46c73f8-0e0e-4b61-b5f8-e58a57d8a977"><img src="https://img.shields.io/badge/CompTIA-Security%2B-555555?style=flat-square" /></a> <img src="https://img.shields.io/badge/CompTIA-CySA%2B%20(in%20progress)-aaaaaa?style=flat-square" />
+<a href="https://www.credly.com/badges/b46c73f8-0e0e-4b61-b5f8-e58a57d8a977"><img src="https://img.shields.io/badge/CompTIA-Security%2B-555555?style=flat-square" /></a> <a href="https://www.credly.com/earner/earned/badge/0fd31ad1-bb04-46f3-9654-0ecd13b2268a"><img src="https://img.shields.io/badge/CompTIA-CySA%2B-555555?style=flat-square" /></a>
 ---
 
 ## Profile
